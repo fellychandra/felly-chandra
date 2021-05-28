@@ -51,7 +51,7 @@ var options = {
     chart: {
         width: 1160,
         height: 650,
-        title: 'Grafik Pariwisata',
+        title: 'Grafik Pariwisata Dalam dan Luar Negeri',
         format: '1,000'
     },
     yAxis: {
